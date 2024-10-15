@@ -1,1 +1,3 @@
 # Yika
+# Inicio 
+Yika es un proyecto de... 
